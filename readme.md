@@ -13,10 +13,10 @@ A Jekyll theme based on the [Resume theme created using Bootstrap by StartBootst
 If you want to remote a section, remove the link in _includes/navigation.html and in _layouts/frontpage.html
 
 ## Demo
-View this jekyll theme in action [here](link)
+View this jekyll theme in action [here](http://zemmyang.com/Bootstrap-Resume-Jekyll/)
 
 ## Screenshot
-![screenshot](screenshot)
+![Screenshot](https://user-images.githubusercontent.com/1752285/95666810-21688600-0b66-11eb-8153-14d4fb74a7ca.png)
 
 ## To-do
 - Make editing the navbar more user-friendly

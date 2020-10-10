@@ -1,4 +1,4 @@
-Bootstreap Resume Theme for Jekyll
+Bootstrap Resume Theme for Jekyll
 =========================
 
 A Jekyll theme based on the [Resume theme created using Bootstrap by StartBootstrap](https://github.com/StartBootstrap/startbootstrap-resume)

@@ -1,0 +1,20 @@
+<section class="resume-section" id="skills">
+    <div class="resume-section-content">
+        <h2 class="mb-5">Skills</h2>
+        <div class="subheading mb-3">{{ site.data.skills.icons-header }}</div>
+        <ul class="list-inline dev-icons">
+            {% for item in site.data.skills.icons %}
+            <li class="list-inline-item"><i class="{{ item.icon }}"></i></li>
+            {% endfor %}
+        </ul>
+        <div class="subheading mb-3">{{ site.data.skills.list-header }}</div>
+        <ul class="fa-ul mb-0">
+            {% for item in site.data.skills.list %}
+            <li>
+                <span class="fa-li"><i class="{{ item.icon }}"></i></span>
+                {{ item.description }}
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</section>

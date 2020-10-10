@@ -1,0 +1,27 @@
+{
+	"education": [{
+            "institution": "Potato 1",
+            "institution-website": "http://google.com",
+            "degree": "BSc in Potato",
+            "specialization": "Cats",
+            "awards": "",
+            "years": "2010 - 2015"
+		},
+
+		{
+            "institution": "Potato 2",
+            "institution-website": "http://google.com",
+            "degree": "MSc in Potato",
+            "awards": "Cum Laude",
+            "years": "2015 - 2017"
+		},
+
+		{
+            "institution": "Potato 3",
+            "institution-website": "http://google.com",
+            "degree": "PhD in Potato",
+            "awards": "",
+            "years": "2017 - present"
+		}
+	]
+}

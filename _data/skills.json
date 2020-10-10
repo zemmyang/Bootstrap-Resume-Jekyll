@@ -1,0 +1,22 @@
+{
+    "icons-header": "Icons",
+	"icons": [{
+			"icon": "fab fa-html5"
+		},
+
+		{
+			"icon": "fab fa-react"
+		}
+    ],
+    "list-header": "List",
+	"list": [{
+            "icon": "fas fa-check",
+            "description": "Purring"
+        },
+
+        {
+            "icon": "fas fa-check",
+            "description": "Hunting"
+        }
+    ]    
+}

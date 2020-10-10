@@ -1,0 +1,22 @@
+{
+	"social-icons": [{
+			"link": "https://linkedin.com",
+			"fa-icon": "fab fa-linkedin-in"
+		},
+
+		{
+			"link": "https://github.com",
+			"fa-icon": "fab fa-github"
+		},
+
+		{
+			"link": "https://twitter.com",
+			"fa-icon": "fab fa-twitter"
+		},
+
+		{
+			"link": "https://facebook.com",
+			"fa-icon": "fab fa-facebook-f"
+		}
+	]
+}

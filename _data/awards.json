@@ -1,0 +1,12 @@
+{
+	"awards": [{
+			"icon": "fas fa-trophy",
+			"description": "Nyanning"
+		},
+
+        {
+			"icon": "fas fa-trophy",
+			"description": "Sleeping"
+		}
+	]
+}

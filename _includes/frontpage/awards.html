@@ -1,0 +1,13 @@
+<section class="resume-section" id="awards">
+    <div class="resume-section-content">
+        <h2 class="mb-5">Awards & Certifications</h2>
+        <ul class="fa-ul mb-0">
+            {% for item in site.data.awards.awards %}
+            <li>
+                <span class="fa-li"><i class="{{ item.icon }} text-warning"></i></span>
+                {{ item.description }}
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</section>

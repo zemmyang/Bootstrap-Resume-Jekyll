@@ -1,0 +1,21 @@
+<section class="resume-section" id="about">
+    <div class="resume-section-content">
+        <h1 class="mb-0">
+
+            <!-- Edit for the header name -->
+            Catty <span class="text-primary">McCatface</span>
+            <!-- Do not edit below this line -->
+            
+        </h1>
+        <div class="subheading mb-5">
+            {{ site.subheading }}
+            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        </div>
+        <p class="lead mb-5">{{ site.description }}</p>
+        <div class="social-icons">
+            {% for item in site.data.social-icons.social-icons %}
+                <a class="social-icon" href="{{ item.link }}"><i class="{{ item.fa-icon }}"></i></a>
+            {% endfor %}
+        </div>
+    </div>
+</section>
